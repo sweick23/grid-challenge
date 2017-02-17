@@ -1,0 +1,31 @@
+main {
+  padding-top: 90px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 100px;
+  text-align: center;
+ 
+}
+
+.brown {
+  background-color: brown;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.purple {
+  background-color: purple;
+  color: white;
+}
